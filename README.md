@@ -22,6 +22,12 @@
 
 ---
 
+## 📂 Portfolio
+
+Check out my data portfolio here: [Rosalie’s Portfolio](https://github.com/rosaliehuang/portfolio)
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
