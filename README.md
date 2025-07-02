@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Rosalie ✨</h1>
-<p align="center">Senior ER Specialist | Data Analyst | Content Creator</p>
+<p align="center"> People Data Analyst | Project Manager | Content Creator</p>
 <p align="center">I work in employee relations + data analytics, where I turn complex org problems into human-centered solutions. Outside of work, I'm building a content creator brand that empowers young women to live with more clarity, confidence, and creativity — both online and off.</p>
 
 ---
