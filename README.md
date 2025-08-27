@@ -15,8 +15,8 @@
 ## 🎨 Tech & Tools I Use  
 
 | 🔧 Languages & Data | 📊 Visualization       | 🌐 Creative & PM Tools |
-|---------------------|-------------------------|------------------------|
-| `Python (Pandas)`  | Tableau (learning)       | Notion                 |
+|--------------------|--------------------------|------------------------|
+| `Python`           | Tableau (learning)       | Notion                 |
 | `SQL`              | Power BI (learning)      | Canva                  |
 | `Excel`            | Looker Studio (learning) |                        |
 
