@@ -16,7 +16,7 @@
 
 | 🔧 Languages & Data | 📊 Visualization       | 🌐 Creative & PM Tools |
 |--------------------|--------------------------|------------------------|
-| `Python`           | Tableau (learning)       | Notion                 |
+| `Python`           | Tableau                  | Notion                 |
 | `SQL`              | Power BI (learning)      | Canva                  |
 | `Excel`            | Looker Studio (learning) |                        |
 
