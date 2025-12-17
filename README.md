@@ -8,7 +8,7 @@
 - **Data & Insights**: Turn HR and employee experience data into clear reports and actionable plans to drive engagement, reduce risk, and support a healthier workplace.
 - **System Admin & Development**: Partner with IT to co-develop and implement a customized grievance system; led user research, testing, feedback loops, and documentation to ensure usability.
 - **Process & Project Management**: Lead DEI awareness projects, internal communication workshops, and cross-level training programs.
-- **Content Creation**: Creator of [Dream Self Blueprint](https://shop.beacons.ai/growwithrosalie/983532b4-e608-4edf-8283-15f4d5d470ab) + [Unmute Her](#) *(coming soon)* - helping 9–5 girlies romanticize life, build better habits, and unmute their most expressive, confident selves.
+- **Content Creation**: Creator of the [Obsessed Follow Formula](https://planoly.store/rosaliehuang/e-courses/mini-course), designed to help 9–5 content creators turn your views into followers, engagement, and opportunities.
 
 ---
 
