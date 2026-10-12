@@ -19,7 +19,7 @@ I've led digital initiatives from requirements gathering and IT collaboration to
 
 I work at the HQ of a global manufacturing group spanning 8 countries and ~50 factories, where I analyze employee cases and turn trends into risk alerts and action plans for leadership. I also run an English-language creator business and build AI tools.
 
-Explore my projects and practical work in data analysis, digital products, and problem-solving. **[View My GitHub Portfolio](https://github.com/rosaliehuang/portfolio)**
+Explore my projects and practical work in data analysis, digital products, and problem-solving. **[View my GitHub data portfolio here!](https://github.com/rosaliehuang/portfolio)**
 
 For my product and program case studies, see my **[full portfolio on Notion](https://tangible-beech-6a1.notion.site/Rosalie-Huang-Portfolio-4348aaf8ed97825d9bed818d85248b04?source=copy_link)**.
 
