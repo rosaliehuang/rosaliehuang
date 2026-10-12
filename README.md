@@ -1,7 +1,15 @@
 <h1 align="center">✨ Hi, I'm Rosalie ✨</h1>
-<p align="center"> People Data Analyst | Project Manager | Content Creator</p>
-<p align="center">I work in employee relations + data analytics, where I turn complex org problems into human-centered solutions. Outside of work, I'm building a content creator brand that empowers young women to live with more clarity, confidence, and creativity — both online and off.</p>
+<p align="center">
+  <strong>Digital Product & Project Management | Product Operations | Data-Informed Problem Solving</strong>
+</p>
+<p align="center">
+  I turn user needs, business problems, and data into practical digital solutions.</br>
+  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration.</br>
 
+I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.</br>
+
+I'm interested in opportunities across Product Operations, Digital Products, SaaS, and AI where I can combine analytical thinking, creative problem-solving, and end-to-end ownership to build better user experiences.</br>
+</p>
 ---
 
 ## 💻 What I Do
