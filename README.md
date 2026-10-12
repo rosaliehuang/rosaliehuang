@@ -3,12 +3,13 @@
   <strong>Digital Product & Project Management | Product Operations | Data-Informed Problem Solving</strong>
 </p>
 <p align="center">
-  I turn user needs, business problems, and data into practical digital solutions.</br>
-  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration.</br>
-
-I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.</br>
-
-I'm interested in opportunities across Product Operations, Digital Products, SaaS, and AI where I can combine analytical thinking, creative problem-solving, and end-to-end ownership to build better user experiences.</br>
+  I turn user needs, business problems, and data into practical digital solutions.<br>
+  <br>
+  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration.<br>
+  <br>
+  I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.<br>
+  <br>
+  I'm interested in opportunities across Product Operations, Digital Products, SaaS, and AI where I can combine analytical thinking, creative problem-solving, and end-to-end ownership to build better user experiences.
 </p>
 ---
 
