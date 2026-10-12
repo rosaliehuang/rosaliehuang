@@ -5,30 +5,26 @@
 <p align="center">
   I turn user needs, business problems, and data into practical digital solutions.<br>
   <br>
-  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration.<br>
-  <br>
-  I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.<br>
-  <br>
-  I'm interested in opportunities across Product Operations, Digital Products, SaaS, and AI where I can combine analytical thinking, creative problem-solving, and end-to-end ownership to build better user experiences.
+  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration. I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.
 </p>
 ---
 
 ## 💻 What I Do
-- **Data & Insights**: Turn HR and employee experience data into clear reports and actionable plans to drive engagement, reduce risk, and support a healthier workplace.
+- **Data & Insights**: Turn HR and employee experience data into clear reports and actionable plans to drive engagement, identify trends and root causes, and turn findings into actionable recommendations.
+- **Digital Product & Project Management:** Translate user needs into requirements, coordinate with technical teams, manage pilots and rollouts, and improve products through user feedback.
 - **System Admin & Development**: Partner with IT to co-develop and implement a customized grievance system; led user research, testing, feedback loops, and documentation to ensure usability.
-- **Process & Project Management**: Lead DEI awareness projects, internal communication workshops, and cross-level training programs.
-- **Content Creation**: Creator of the [Obsessed Follow Formula](https://planoly.store/rosaliehuang/e-courses/mini-course), designed to help 9–5 content creators turn your views into followers, engagement, and opportunities.
-
----
+- **Process Improvement & Cross-functional Project Management:** Build scalable workflows, simplify processes, and align stakeholders across teams, functions, and countries.
+- **AI & Digital Product Creation:** Built [Hook On You](https://www.growwithrosalie.com/hoy), an AI-powered hook generation tool, and developed digital products for a global creator audience.
+- **Content Creation**: Grow an online business and develop products that solve creator problems, help 9–5 content creators turn your views into followers, engagement, and opportunities.
 
 ## 🎨 Tech & Tools I Use  
 
-| 🔧 Languages & Data | 📊 Visualization       | 🌐 Creative & PM Tools |
-|--------------------|--------------------------|------------------------|
-| `Python`           | Tableau                  | Notion                 |
-| `SQL`              | Power BI (learning)      | Canva                  |
-| `Excel`            | Looker Studio (learning) |                        |
-
+| 🔧 Data & Analysis | 📊 AI & Automation       | 🌐 Product & Project Work |
+|---------------------|---------------------------|----------------------------|
+| `Python`           | Claude (Co-work, Code)   | Zapier                 |
+| `SQL`              | ChatGPT                  | Flodesk                  |
+| `Excel`            | Manychat                 | Canva & Capcut                  |
+| ‵Tableau`          |
 ---
 
 ## 📂 Portfolio
