@@ -14,6 +14,17 @@ I've led digital initiatives from requirements gathering and IT collaboration to
 
 ---
 
+
+## 👩‍💻 About Me
+
+I work at the HQ of a global manufacturing group spanning 8 countries and ~50 factories, where I analyze employee cases and turn trends into risk alerts and action plans for leadership. I also run an English-language creator business and build AI tools.
+
+Explore my projects and practical work in data analysis, digital products, and problem-solving. **[View My GitHub Portfolio](https://github.com/rosaliehuang/portfolio)**
+
+For my product and program case studies, see my **[full portfolio on Notion](https://tangible-beech-6a1.notion.site/Rosalie-Huang-Portfolio-4348aaf8ed97825d9bed818d85248b04?source=copy_link)**.
+
+---
+
 ## 💻 What I Do
 
 - **Digital Product & Platform Development**: Translate user needs into product requirements, collaborate with IT, coordinate user testing, and drive improvements through feedback.
@@ -28,24 +39,14 @@ I've led digital initiatives from requirements gathering and IT collaboration to
 
 ---
 
-## 🛠️ Tech & Tools
+## 🧰 Skills
 
-| Data & Analysis | AI & Automation | Creative & Business Tools |
-|---|---|---|
-| Excel | ChatGPT | Canva |
-| SQL | Claude | CapCut |
-| Python* | ManyChat | Notion |
-| Tableau* | Zapier | Flodesk |
-
-*Python and Tableau: Include only the level of proficiency you can demonstrate through your projects.*
-
----
-
-## 📂 Portfolio
-
-Explore my projects and practical work in data analysis, digital products, and problem-solving.
-
-**[View My GitHub Portfolio](https://github.com/rosaliehuang/portfolio)**
+| Area | Tools |
+|---|---|
+| Querying | `SQL` (MySQL, PostgreSQL) |
+| Analysis | `Python` (Pandas, NumPy), `Excel` (pivot tables, dashboards) |
+| Visualization | `Tableau`, Seaborn, Matplotlib |
+| Data  | Cleaning messy multi-country data, KPI design, survey analysis, executive reporting |
 
 ---
 
