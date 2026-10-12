@@ -1,56 +1,73 @@
 <h1 align="center">✨ Hi, I'm Rosalie ✨</h1>
+
 <p align="center">
-  <strong>Digital Product & Project Management | Product Operations | Data-Informed Problem Solving</strong>
+  <strong>Digital Product | Product Operations | Data-Driven Problem Solving</strong>
 </p>
+
 <p align="center">
-  I turn user needs, business problems, and data into practical digital solutions.<br>
-  <br>
-  I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration. I've led digital product initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and rollout across multiple countries. Outside of my corporate role, I build AI-powered tools and digital products through my creator business.
+  I turn user needs, business problems, and data into practical digital solutions.
 </p>
+
+I'm a cross-functional professional with 7+ years of corporate experience in project management, data analysis, digital platform implementation, and stakeholder collaboration.
+
+I've led digital initiatives from requirements gathering and IT collaboration to user testing, feedback-driven improvements, and multi-country rollout. Outside my corporate role, I build AI-powered tools and digital products through my creator business.
+
 ---
 
 ## 💻 What I Do
-- **Data & Insights**: Turn HR and employee experience data into clear reports and actionable plans to drive engagement, identify trends and root causes, and turn findings into actionable recommendations.
-- **Digital Product & Project Management:** Translate user needs into requirements, coordinate with technical teams, manage pilots and rollouts, and improve products through user feedback.
-- **System Admin & Development**: Partner with IT to co-develop and implement a customized grievance system; led user research, testing, feedback loops, and documentation to ensure usability.
-- **Process Improvement & Cross-functional Project Management:** Build scalable workflows, simplify processes, and align stakeholders across teams, functions, and countries.
-- **AI & Digital Product Creation:** Built [Hook On You](https://www.growwithrosalie.com/hoy), an AI-powered hook generation tool, and developed digital products for a global creator audience.
-- **Content Creation**: Grow an online business and develop products that solve creator problems, help 9–5 content creators turn your views into followers, engagement, and opportunities.
 
-## 🎨 Tech & Tools I Use  
+- **Digital Product & Platform Development**: Translate user needs into product requirements, collaborate with IT, coordinate user testing, and drive improvements through feedback.
 
-| 🔧 Data & Analysis | 📊 AI & Automation       | 🌐 Product & Project Work |
-|---------------------|---------------------------|----------------------------|
-| `Python`           | Claude (Co-work, Code)   | Zapier                 |
-| `SQL`              | ChatGPT                  | Flodesk                  |
-| `Excel`            | Manychat                 | Canva & Capcut                  |
-| ‵Tableau`          |
+- **Data & Insights**: Analyze operational and employee experience data, identify trends and root causes, and translate findings into actionable recommendations.
+
+- **Project Management & Process Improvement**: Lead cross-country initiatives, streamline workflows, coordinate stakeholders, and turn plans into execution.
+
+- **AI & Digital Product Creation**: Built [Hook On You](https://www.growwithrosalie.com/hoy), an AI-powered hook generation tool, and developed digital products for a global creator audience.
+
+- **Creator Business & Growth**: Built an English-language creator business through content strategy, audience growth, digital products, and brand partnerships.
+
+---
+
+## 🛠️ Tech & Tools
+
+| Data & Analysis | AI & Automation | Creative & Business Tools |
+|---|---|---|
+| Excel | ChatGPT | Canva |
+| SQL | Claude | CapCut |
+| Python* | ManyChat | Notion |
+| Tableau* | Zapier | Flodesk |
+
+*Python and Tableau: Include only the level of proficiency you can demonstrate through your projects.*
+
 ---
 
 ## 📂 Portfolio
 
-Check out my data portfolio here: [Rosalie’s Portfolio](https://github.com/rosaliehuang/portfolio)
+Explore my projects and practical work in data analysis, digital products, and problem-solving.
+
+**[View My GitHub Portfolio](https://github.com/rosaliehuang/portfolio)**
 
 ---
 
-## 📈 GitHub Stats
+## 🌸 Beyond the Corporate World
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosaliehuang&show_icons=true&theme=rose_pine&hide_title=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosaliehuang&layout=compact&theme=rose_pine" width="47%" />
-</div>
+I also run [Grow with Rosalie](https://www.instagram.com/growwithrosalie/), an English-language creator business where I experiment with content strategy, audience growth, digital products, and AI-powered tools.
+
+Building this business has given me hands-on experience taking ideas from concept to launch, understanding user needs, and using performance insights to improve products and content.
 
 ---
 
-## 🌸 Connect With Me
+## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/rosalie-huang/"><img src="https://img.shields.io/badge/-LinkedIn-93BFCF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://www.instagram.com/growwithrosalie/"><img src="https://img.shields.io/badge/-Instagram-E9A8F2?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  <a href="https://www.behance.net/studiomellowb"><img src="https://img.shields.io/badge/-Portfolio-FFE3E1?style=for-the-badge&logo=behance&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/rosalie-huang/">
+    <img src="https://img.shields.io/badge/-LinkedIn-93BFCF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://www.instagram.com/growwithrosalie/">
+    <img src="https://img.shields.io/badge/-Instagram-E9A8F2?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
 </p>
 
----
-
-> ✨ *“Less hustle, more alignment.”*  
-> Building a soft, data-driven, purpose-filled life—on and off the clock.  
+<p align="center">
+  <em>Building thoughtful products, making data useful, and turning ideas into action. ✨</em>
+</p>
